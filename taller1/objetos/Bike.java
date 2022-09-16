@@ -1,4 +1,4 @@
-package talleres.objetos;
+package objetos;
 /**
  * Representa una bicicleta con atributos como marca,tipo, modelo,
  * color y maxima velocidad.

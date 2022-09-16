@@ -1,4 +1,4 @@
-package talleres.objetos;
+package objetos;
 /**
  * Representa una lavadora con atributos como marca, color, estado, ciclo, capacidad. 
  *  @author Juan Morales

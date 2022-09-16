@@ -1,4 +1,4 @@
-package talleres.objetos;
+package objetos;
 
 import java.util.ArrayList;
 /**

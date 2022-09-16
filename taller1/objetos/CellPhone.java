@@ -1,4 +1,4 @@
-package talleres.objetos;
+package objetos;
 /**
  * Representa un telefono celular con atributos como marca, modelo,
  * sistema operativo y estado del bloqueo

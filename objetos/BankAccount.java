@@ -1,4 +1,4 @@
-package talleres.objetos;
+package objetos;
 /**
  * Representa una cuenta de banco con propiedades 
  * como numero de cuenta y si esta se encuentra activada. 
